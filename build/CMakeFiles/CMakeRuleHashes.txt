@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+da8232126fca8b16aeb4fa28e724c212 CMakeFiles/build_libnmea
+c327bf1ce34bbc9331235e497ff340c3 CMakeFiles/clean_libnmea

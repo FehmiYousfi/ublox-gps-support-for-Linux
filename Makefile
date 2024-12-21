@@ -1,0 +1,24 @@
+
+CC := gcc
+CXX := g++
+
+BUILD_DIR=build
+CMAKE_COMMAND=cmake
+MAKE_COMMAND=make
+CLEAN_COMMAND=$(MAKE_COMMAND) clean
+
+TARGET=gps_collector
+
+all: $(BUILD_DIR) $(TARGET)
+
+$(BUILD_DIR):
+	$(CMAKE_COMMAND) -B $(BUILD_DIR) -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=$(CC) -DCMAKE_CXX_COMPILER=$(CXX) 
+
+$(TARGET): $(BUILD_DIR)
+	$(MAKE_COMMAND) -C $(BUILD_DIR) 
+
+clean:
+	$(CLEAN_COMMAND) -C $(BUILD_DIR)
+	@rm -rf $(BUILD_DIR)
+
+.PHONY: all clean

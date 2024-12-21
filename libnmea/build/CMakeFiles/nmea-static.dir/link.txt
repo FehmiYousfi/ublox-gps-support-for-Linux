@@ -1,0 +1,2 @@
+/usr/bin/ar qc build/libnmea-static.a CMakeFiles/nmea-static.dir/src/nmea/nmea.c.o CMakeFiles/nmea-static.dir/src/nmea/parser.c.o CMakeFiles/nmea-static.dir/src/parsers/parse.c.o
+/usr/bin/ranlib build/libnmea-static.a

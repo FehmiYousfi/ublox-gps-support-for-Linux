@@ -1,0 +1,1 @@
+gcc -fPIC -g -Wall -Wno-return-type  CMakeFiles/parse_stdin.dir/examples/parse_stdin.c.o -o parse_stdin  -lnmea 

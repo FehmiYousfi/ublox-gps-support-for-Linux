@@ -1,0 +1,15 @@
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/nmea-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/gpgga-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/gpgll-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/gpgsa-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/gpgsv-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/gprmc-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/gptxt-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/gpvtg-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/parse-static.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/minimum.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/parse_stdin.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/clean-all.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/unit-tests.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/edit_cache.dir
+/home/fyousfi/Desktop/UltimaRobotics/firmware/gps_collector/libnmea/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc build/libparse-static.a CMakeFiles/parse-static.dir/src/parsers/parse.c.o
+/usr/bin/ranlib build/libparse-static.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc build/libgpgsa-static.a CMakeFiles/gpgsa-static.dir/src/parsers/gpgsa.c.o
+/usr/bin/ranlib build/libgpgsa-static.a

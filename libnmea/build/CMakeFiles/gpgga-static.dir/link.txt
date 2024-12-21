@@ -1,0 +1,2 @@
+/usr/bin/ar qc build/libgpgga-static.a CMakeFiles/gpgga-static.dir/src/parsers/gpgga.c.o
+/usr/bin/ranlib build/libgpgga-static.a
