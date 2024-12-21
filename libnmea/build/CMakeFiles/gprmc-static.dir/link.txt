@@ -1,2 +1,0 @@
-/usr/bin/ar qc build/libgprmc-static.a CMakeFiles/gprmc-static.dir/src/parsers/gprmc.c.o
-/usr/bin/ranlib build/libgprmc-static.a

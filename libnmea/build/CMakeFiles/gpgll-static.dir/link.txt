@@ -1,2 +1,0 @@
-/usr/bin/ar qc build/libgpgll-static.a CMakeFiles/gpgll-static.dir/src/parsers/gpgll.c.o
-/usr/bin/ranlib build/libgpgll-static.a

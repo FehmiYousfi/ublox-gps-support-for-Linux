@@ -1,2 +1,0 @@
-/usr/bin/ar qc build/libgptxt-static.a CMakeFiles/gptxt-static.dir/src/parsers/gptxt.c.o
-/usr/bin/ranlib build/libgptxt-static.a

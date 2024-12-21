@@ -1,1 +1,0 @@
-gcc -fPIC -g -Wall -Wno-return-type  CMakeFiles/minimum.dir/examples/minimum.c.o -o minimum  -lnmea 

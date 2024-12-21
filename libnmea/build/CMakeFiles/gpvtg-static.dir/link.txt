@@ -1,2 +1,0 @@
-/usr/bin/ar qc build/libgpvtg-static.a CMakeFiles/gpvtg-static.dir/src/parsers/gpvtg.c.o
-/usr/bin/ranlib build/libgpvtg-static.a
